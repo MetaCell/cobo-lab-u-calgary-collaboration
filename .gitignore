@@ -1,0 +1,8 @@
+*.DS_Store
+*.xlsx
+*.csv
+*.html
+*.png
+data/outputs/.DS_Store
+*.graphia
+*.numbers
