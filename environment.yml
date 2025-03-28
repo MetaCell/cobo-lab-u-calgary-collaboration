@@ -16,3 +16,4 @@ dependencies:
   - biopython   # Required for BLAST searches
   - requests    # Needed for API calls to NCBI
   - nbformat
+  - python-kaleido
